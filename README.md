@@ -19,4 +19,6 @@ You can enter how many times should be the text inputed. Space between each loop
 2) Option to enter a text beginnig on or containg a specific charater(s)
 3) Re-workded graphic
 # Importnant
-Please consider this is my first ever project and the OCR (technique used to read) isn't the best as the better ones are quite pricy, so it might not always work as it should.
+Please consider this is my first ever project and the OCR (technique used to read) isn't the best as the better ones are quite pricy, so it might not always work as it should. To maximaze the quality of result set some bigger size of the text.
+# Reliability
+The app was tested with TouchTyping sofware used in my country, Czech Republic, which are MountBlue and Zav. There was no bigger problem with either of these two but usually it needs a little correction. Only problem I found was with "robotic" style fonts that for some reason are hard to read for the OCR.
