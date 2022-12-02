@@ -2,7 +2,7 @@
 *[SCANS TEXT AND SENDS THE KEYS]* <br>
 Hack For Touch Typing teaching software.  Works fine with eng and czech characters. <br>
 # How to use? 
-Simly click on "Code" -> Download Zip. Once the ZIP file is downloaded extract it and run "Hack.exe". The hacks UI should pop up.
+Simly click on "Code" -> Download Zip. Once the ZIP file is downloaded extract it and run "Hack.exe". The hacks UI should pop up.<br>
 ![HackUI](https://user-images.githubusercontent.com/92151973/205362946-7a18773d-bae9-4899-a883-e9f056def497.png) <br>
 Start by clicking on the "Scan" button. Every time you run the app it will want you to select the area where the app should take text from, so new, almost tranparent window will be opened. Drag and resize the window by your needs and as the text is selected properly hit "Screenshot". Main window will be shown again, this time with filled out the text box. If you wish to re-select text area without restarting the app there is "select area" button on the right bottom corner. You can insert the text manually if scanning doesnt work. You can set some properties, as speed, inverted inputing or number of loops. After you click "Start" you have 2.5 seconds to click to the app/text box where the text should be filled in. <br>
 # Features
