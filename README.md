@@ -1,3 +1,5 @@
+# DOESNT WORK ON WIN 11!
+
 # TouchTypingHack
 *[SCANS TEXT AND SENDS THE KEYS]* <br>
 Hack For Touch Typing teaching software.  Works fine with eng and czech characters. <br>
